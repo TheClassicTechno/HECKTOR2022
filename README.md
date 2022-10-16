@@ -2,7 +2,7 @@
 <b>Head and neck tumor and lymph node auto-segmentation for PET/CT </b>
 
 
-Created by AIM Lab members: Arnav Jain, Julia Huang, Yashwanth Ravipati, Gregory Cain, Aidan Boyd, Zezhong Ye and Benjamin Kann.
+Created by Harvard University AIM Lab members: Arnav Jain, Julia Huang, Yashwanth Ravipati, Gregory Cain, Aidan Boyd, Zezhong Ye and Benjamin Kann.
 
 <b>Keywords:</b> Segmentation · HECKTOR · Deep learning
 
